@@ -63,7 +63,7 @@
     "super-nunjucks-loader": "^2.0.0",
     "uglify-es": "git://github.com/mishoo/UglifyJS2.git#harmony",
     "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony",
-    "uglifyjs-webpack-plugin": "0.4.6",
+    "uglifyjs-webpack-plugin": "2.2.0",
     "url-loader": "^1.1.2",
     "webpack": "^4.46.0",
     "webpack-glsl-loader": "^1.0.1",
