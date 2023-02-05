@@ -33,7 +33,7 @@
     "aframe-atlas-uvs-component": "^2.1.0",
     "aframe-audioanalyser-component": "^6.0.0",
     "aframe-event-decorators": "^1.0.2",
-    "aframe-event-set-component": "^4.2.1",
+    "aframe-event-set-component": "^5.0.0",
     "aframe-geometry-merger-component": "^2.0.0-beta1",
     "aframe-haptics-component": "^1.6.3",
     "aframe-layout-component": "^5.3.0",
